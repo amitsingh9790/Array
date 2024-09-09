@@ -13,7 +13,7 @@ public class OddEvenArray {
                 evenArray[evenIndex] = arr[i];
                 ++evenIndex;
             }
-            else{
+            else{ 
                 oddArray[oddIndex] = arr[i];
                 ++oddIndex;
             }
