@@ -11,5 +11,5 @@ public class PrintDublicateElement {
                 if(A[i]==B[j])
                     System.out.print(A[i]+" ");
             }
-    }
+    } 
 }
